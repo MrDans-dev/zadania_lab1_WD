@@ -1,3 +1,4 @@
+from math import *
 #Z1
 a=1
 b=0.5
@@ -25,7 +26,10 @@ print(a)
 b%=a
 print(b)
 #Z4
-
+print("a)",pow(e,10))
+print("b)",pow(log(5+(sin(8)**2),10),1/6))
+print("c)",floor(3.55))
+print("d)",round(4.80))
 #Z5
 imie = "DANIEL"
 nazwisko = "KUCHARSKI"
